@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rtushar2708/Data-Structure/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rtushar2708/Data-Structure/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
