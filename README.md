@@ -17,6 +17,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/rtushar2708/Data-Structure/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rtushar2708/Data-Structure/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rtushar2708/Data-Structure/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/rtushar2708/Data-Structure/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -89,4 +90,5 @@
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/rtushar2708/Data-Structure/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/rtushar2708/Data-Structure/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
