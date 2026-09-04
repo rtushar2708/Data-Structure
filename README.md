@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rtushar2708/Data-Structure/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rtushar2708/Data-Structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rtushar2708/Data-Structure/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/rtushar2708/Data-Structure/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rtushar2708/Data-Structure/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/rtushar2708/Data-Structure/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rtushar2708/Data-Structure/tree/master/0075-sort-colors) |
@@ -86,6 +87,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rtushar2708/Data-Structure/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rtushar2708/Data-Structure/tree/master/0073-set-matrix-zeroes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rtushar2708/Data-Structure/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -95,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rtushar2708/Data-Structure/tree/master/0048-rotate-image) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rtushar2708/Data-Structure/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rtushar2708/Data-Structure/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
