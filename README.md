@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/rtushar2708/Data-Structure/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/rtushar2708/Data-Structure/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rtushar2708/Data-Structure/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rtushar2708/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rtushar2708/Data-Structure/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rtushar2708/Data-Structure/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rtushar2708/Data-Structure/tree/master/0136-single-number) |
@@ -89,11 +90,13 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rtushar2708/Data-Structure/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rtushar2708/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rtushar2708/Data-Structure/tree/master/0073-set-matrix-zeroes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rtushar2708/Data-Structure/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rtushar2708/Data-Structure/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rtushar2708/Data-Structure/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
