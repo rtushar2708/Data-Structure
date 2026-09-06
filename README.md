@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rtushar2708/Data-Structure/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/rtushar2708/Data-Structure/tree/master/0115-distinct-subsequences) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -109,4 +110,8 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/rtushar2708/Data-Structure/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rtushar2708/Data-Structure/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/rtushar2708/Data-Structure/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
