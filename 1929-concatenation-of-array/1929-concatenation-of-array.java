@@ -5,7 +5,7 @@ class Solution {
         for(int i = 0; i < 2*nums.length; i++) {
             ans[i] = nums[i%nums.length];
         }
-
+        System.gc();
         return ans;
     }
 }
