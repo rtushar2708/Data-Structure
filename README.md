@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/rtushar2708/Data-Structure/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/rtushar2708/Data-Structure/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rtushar2708/Data-Structure/tree/master/0485-max-consecutive-ones) |
+| [1470-shuffle-the-array](https://github.com/rtushar2708/Data-Structure/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rtushar2708/Data-Structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/rtushar2708/Data-Structure/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rtushar2708/Data-Structure/tree/master/2091-removing-minimum-and-maximum-from-array) |
