@@ -11,7 +11,7 @@ class Solution {
             total = (total + newSubsequences) % MOD;
             end[index] = (end[index] + newSubsequences) % MOD;
         }
-
+        System.gc();
         return total;
     }
 }
