@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/rtushar2708/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rtushar2708/Data-Structure/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rtushar2708/Data-Structure/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/rtushar2708/Data-Structure/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rtushar2708/Data-Structure/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rtushar2708/Data-Structure/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/rtushar2708/Data-Structure/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/rtushar2708/Data-Structure/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/rtushar2708/Data-Structure/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/rtushar2708/Data-Structure/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/rtushar2708/Data-Structure/tree/master/0940-distinct-subsequences-ii) |
 ## Breadth-First Search
 |  |
