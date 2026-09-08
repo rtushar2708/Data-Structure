@@ -3,6 +3,7 @@ class Solution {
         if(n <= 999) {
             return 0;
         }
+        System.gc();
         return n-999;
     }
 }
