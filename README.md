@@ -25,6 +25,7 @@
 | [1929-concatenation-of-array](https://github.com/rtushar2708/Data-Structure/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rtushar2708/Data-Structure/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rtushar2708/Data-Structure/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rtushar2708/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rtushar2708/Data-Structure/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rtushar2708/Data-Structure/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rtushar2708/Data-Structure/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -60,6 +61,7 @@
 | [0169-majority-element](https://github.com/rtushar2708/Data-Structure/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rtushar2708/Data-Structure/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rtushar2708/Data-Structure/tree/master/0560-subarray-sum-equals-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rtushar2708/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rtushar2708/Data-Structure/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
@@ -146,4 +148,12 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rtushar2708/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/rtushar2708/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/rtushar2708/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
