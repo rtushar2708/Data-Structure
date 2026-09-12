@@ -25,6 +25,7 @@
 | [1929-concatenation-of-array](https://github.com/rtushar2708/Data-Structure/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rtushar2708/Data-Structure/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rtushar2708/Data-Structure/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rtushar2708/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rtushar2708/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rtushar2708/Data-Structure/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rtushar2708/Data-Structure/tree/master/3875-construct-uniform-parity-array-i) |
@@ -70,6 +71,7 @@
 | [0075-sort-colors](https://github.com/rtushar2708/Data-Structure/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rtushar2708/Data-Structure/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rtushar2708/Data-Structure/tree/master/0229-majority-element-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rtushar2708/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0115-distinct-subsequences](https://github.com/rtushar2708/Data-Structure/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/rtushar2708/Data-Structure/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/rtushar2708/Data-Structure/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rtushar2708/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/rtushar2708/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rtushar2708/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
