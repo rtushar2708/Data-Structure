@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/rtushar2708/Data-Structure/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rtushar2708/Data-Structure/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rtushar2708/Data-Structure/tree/master/0560-subarray-sum-equals-k) |
+| [0835-image-overlap](https://github.com/rtushar2708/Data-Structure/tree/master/0835-image-overlap) |
 | [1470-shuffle-the-array](https://github.com/rtushar2708/Data-Structure/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rtushar2708/Data-Structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/rtushar2708/Data-Structure/tree/master/1929-concatenation-of-array) |
@@ -113,6 +114,7 @@
 | [0048-rotate-image](https://github.com/rtushar2708/Data-Structure/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rtushar2708/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rtushar2708/Data-Structure/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/rtushar2708/Data-Structure/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rtushar2708/Data-Structure/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
