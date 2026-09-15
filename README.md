@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rtushar2708/Data-Structure/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0075-sort-colors](https://github.com/rtushar2708/Data-Structure/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/rtushar2708/Data-Structure/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rtushar2708/Data-Structure/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0115-distinct-subsequences](https://github.com/rtushar2708/Data-Structure/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/rtushar2708/Data-Structure/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/rtushar2708/Data-Structure/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rtushar2708/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Breadth-First Search
 |  |
@@ -142,6 +145,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/rtushar2708/Data-Structure/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/rtushar2708/Data-Structure/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
 |  |
 | ------- |
