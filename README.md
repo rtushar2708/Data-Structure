@@ -132,6 +132,7 @@
 | [0054-spiral-matrix](https://github.com/rtushar2708/Data-Structure/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/rtushar2708/Data-Structure/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rtushar2708/Data-Structure/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/rtushar2708/Data-Structure/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/rtushar2708/Data-Structure/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/rtushar2708/Data-Structure/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
