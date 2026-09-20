@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/rtushar2708/Data-Structure/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rtushar2708/Data-Structure/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/rtushar2708/Data-Structure/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/rtushar2708/Data-Structure/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rtushar2708/Data-Structure/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rtushar2708/Data-Structure/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/rtushar2708/Data-Structure/tree/master/0835-image-overlap) |
@@ -37,6 +38,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/rtushar2708/Data-Structure/tree/master/0455-assign-cookies) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rtushar2708/Data-Structure/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -48,6 +50,7 @@
 | [0031-next-permutation](https://github.com/rtushar2708/Data-Structure/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rtushar2708/Data-Structure/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/rtushar2708/Data-Structure/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/rtushar2708/Data-Structure/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rtushar2708/Data-Structure/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
@@ -78,12 +81,14 @@
 | [0075-sort-colors](https://github.com/rtushar2708/Data-Structure/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rtushar2708/Data-Structure/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rtushar2708/Data-Structure/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/rtushar2708/Data-Structure/tree/master/0455-assign-cookies) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rtushar2708/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rtushar2708/Data-Structure/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/rtushar2708/Data-Structure/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
