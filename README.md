@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rtushar2708/Data-Structure/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -174,12 +175,14 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rtushar2708/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rtushar2708/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -187,6 +190,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rtushar2708/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
