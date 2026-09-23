@@ -25,6 +25,7 @@
 | [0860-lemonade-change](https://github.com/rtushar2708/Data-Structure/tree/master/0860-lemonade-change) |
 | [1470-shuffle-the-array](https://github.com/rtushar2708/Data-Structure/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rtushar2708/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rtushar2708/Data-Structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rtushar2708/Data-Structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/rtushar2708/Data-Structure/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rtushar2708/Data-Structure/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -76,6 +77,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rtushar2708/Data-Structure/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rtushar2708/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rtushar2708/Data-Structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rtushar2708/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rtushar2708/Data-Structure/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
@@ -164,6 +166,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rtushar2708/Data-Structure/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rtushar2708/Data-Structure/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rtushar2708/Data-Structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/rtushar2708/Data-Structure/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rtushar2708/Data-Structure/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -215,6 +218,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rtushar2708/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rtushar2708/Data-Structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rtushar2708/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
@@ -229,6 +233,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rtushar2708/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rtushar2708/Data-Structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
