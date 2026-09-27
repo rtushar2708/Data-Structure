@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/rtushar2708/Data-Structure/tree/master/1096-brace-expansion-ii) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0110-balanced-binary-tree) |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rtushar2708/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0110-balanced-binary-tree) |
