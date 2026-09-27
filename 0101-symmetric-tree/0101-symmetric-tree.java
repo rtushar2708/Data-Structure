@@ -21,11 +21,8 @@ class Solution {
         if(l == null || r == null) {
             return false;
         }
-        if(l.val == r.val && check(l.left, r.right) && check(l.right, r.left)) {
-            return true;
-        }
 
-        return false;
+        return (l.val == r.val) && check(l.left, r.right) && check(l.right, r.left);
     }
     public boolean isSymmetric(TreeNode root) {
         if(root == null) {
