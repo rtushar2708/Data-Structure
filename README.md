@@ -125,6 +125,7 @@
 | [0053-maximum-subarray](https://github.com/rtushar2708/Data-Structure/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/rtushar2708/Data-Structure/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/rtushar2708/Data-Structure/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rtushar2708/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/rtushar2708/Data-Structure/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rtushar2708/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rtushar2708/Data-Structure/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -193,6 +194,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rtushar2708/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0543-diameter-of-binary-tree) |
@@ -203,6 +205,7 @@
 | [0100-same-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rtushar2708/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0543-diameter-of-binary-tree) |
@@ -214,6 +217,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rtushar2708/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0543-diameter-of-binary-tree) |
@@ -255,6 +259,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rtushar2708/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0543-diameter-of-binary-tree) |
 ## Segment Tree
 |  |
