@@ -78,6 +78,7 @@
 | [0169-majority-element](https://github.com/rtushar2708/Data-Structure/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rtushar2708/Data-Structure/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rtushar2708/Data-Structure/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/rtushar2708/Data-Structure/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rtushar2708/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -93,6 +94,7 @@
 | [0169-majority-element](https://github.com/rtushar2708/Data-Structure/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rtushar2708/Data-Structure/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/rtushar2708/Data-Structure/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/rtushar2708/Data-Structure/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rtushar2708/Data-Structure/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rtushar2708/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -142,6 +144,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/rtushar2708/Data-Structure/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rtushar2708/Data-Structure/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -208,6 +211,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rtushar2708/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -220,6 +224,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rtushar2708/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -234,6 +239,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rtushar2708/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
