@@ -7,14 +7,10 @@ class Solution {
         }
 
         if(open < n) {
-            curr += '(';
-            solve(curr, n, open+1, close);
-            curr = curr.substring(0, curr.length()-1);
+            solve(curr + '(', n, open+1, close);
         }
         if(close < open) {
-            curr += ')';
-            solve(curr, n, open, close+1);
-            curr = curr.substring(0, curr.length()-1);
+            solve(curr + ')', n, open, close+1);
         }
 
         return;
