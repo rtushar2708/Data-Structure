@@ -146,6 +146,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rtushar2708/Data-Structure/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rtushar2708/Data-Structure/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/rtushar2708/Data-Structure/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rtushar2708/Data-Structure/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -217,6 +218,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/rtushar2708/Data-Structure/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rtushar2708/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -232,6 +234,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/rtushar2708/Data-Structure/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rtushar2708/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -249,6 +252,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/rtushar2708/Data-Structure/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rtushar2708/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rtushar2708/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
